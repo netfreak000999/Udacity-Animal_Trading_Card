@@ -1,0 +1,50 @@
+
+#rabbit_img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+#fact {
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: underline;
+}
+
+.label {
+    font-weight: bold;
+    background-color: turquoise;
+}
+
+#list {
+    list-style: none;
+    text-align: left;
+}
+
+.main_conf {
+    border: 1.5px #060505 solid;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 5px 5px 8px 5px #888888;
+    background-color: whitesmoke;
+}
+
+#main_2 {
+    border: 1px #696969 solid;
+    border-radius: 8px;
+}
+
+#info {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12pt;
+    font-family: Comic Sans MS;
+}
+
+#head {
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 0 0 3px #00FF7F;
+}
